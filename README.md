@@ -1,5 +1,7 @@
 # Project 1 - Wordle Pt. 1
 
+Video Link: https://drive.google.com/file/d/1Oh3ssFRl6iIF7IdwjXiGtsh5EexuNO8O/view?usp=sharing
+
 Submitted by: Monu Sunkara
 
 Wordle is an app that allows users to guess words and obtain clues on which letter is contained in the final word and their placements.
